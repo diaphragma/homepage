@@ -115,10 +115,12 @@ body {
 
   .contact-info__item-icon path {
       fill: var(--icon-color);
+      width: 100px;
   }
 
   .contact-info__item-icon {
       height: 1.1428rem;
+      width: 100px;
       vertical-align: text-bottom;
   }
 
